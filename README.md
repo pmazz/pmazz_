@@ -5,9 +5,15 @@
 
 Hi, you'll find here some personal and spare time projects of mine.
 
-#### Stats
+#### Stats & Activities
 
-![](https://github-readme-stats.vercel.app/api?username=pmazz&hide_title=true&show_icons=true&count_private=true&hide_rank=true&include_all_commits=true)
+<a href="#">
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=pmazz&hide_title=true&show_icons=true&count_private=true&hide_rank=true&include_all_commits=true" />
+</a>
+<a href="#">
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+</a>
 
 Additional stats [here](https://profile-summary-for-github.com/user/pmazz)
 

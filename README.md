@@ -12,6 +12,8 @@ Hi, you'll find here some personal and spare time projects of mine.
 </a>
 <a href="#">
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#2](https://github.com/pmazz/ps_hassio_entities/issues/2) in [pmazz/ps_hassio_entities](https://github.com/pmazz/ps_hassio_entities)
+2. 🗣 Commented on [#2](https://github.com/pmazz/ps_hassio_entities/issues/2) in [pmazz/ps_hassio_entities](https://github.com/pmazz/ps_hassio_entities)
 <!--END_SECTION:activity-->
 </a>
 

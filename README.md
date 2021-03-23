@@ -14,8 +14,8 @@ Additional stats [here](https://profile-summary-for-github.com/user/pmazz)
 #### Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/pmazz/ps_hassio_entities/issues/3) in [pmazz/ps_hassio_entities](https://github.com/pmazz/ps_hassio_entities)
-2. 🗣 Commented on [#3](https://github.com/pmazz/ps_hassio_entities/issues/3) in [pmazz/ps_hassio_entities](https://github.com/pmazz/ps_hassio_entities)
+1. 🗣 Commented on [#4](https://github.com/pmazz/ps_hassio_entities/issues/4) in [pmazz/ps_hassio_entities](https://github.com/pmazz/ps_hassio_entities)
+2. ❗️ Closed issue [#3](https://github.com/pmazz/ps_hassio_entities/issues/3) in [pmazz/ps_hassio_entities](https://github.com/pmazz/ps_hassio_entities)
 <!--END_SECTION:activity-->
 
 <!--

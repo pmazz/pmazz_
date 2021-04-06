@@ -14,8 +14,8 @@ Additional stats [here](https://profile-summary-for-github.com/user/pmazz)
 #### Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/pmazz/Test-Jekyll-1/pull/2) in [pmazz/Test-Jekyll-1](https://github.com/pmazz/Test-Jekyll-1)
-2. 🗣 Commented on [#4](https://github.com/pmazz/ps_hassio_entities/issues/4) in [pmazz/ps_hassio_entities](https://github.com/pmazz/ps_hassio_entities)
+1. 🗣 Commented on [#2](https://github.com/pmazz/ps_hassio_entities/issues/2) in [pmazz/ps_hassio_entities](https://github.com/pmazz/ps_hassio_entities)
+2. 🎉 Merged PR [#2](https://github.com/pmazz/Test-Jekyll-1/pull/2) in [pmazz/Test-Jekyll-1](https://github.com/pmazz/Test-Jekyll-1)
 <!--END_SECTION:activity-->
 
 <!--

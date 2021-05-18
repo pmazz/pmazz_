@@ -14,8 +14,8 @@ Additional stats [here](https://profile-summary-for-github.com/user/pmazz)
 #### Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/pmazz/ps_hassio_entities/issues/5) in [pmazz/ps_hassio_entities](https://github.com/pmazz/ps_hassio_entities)
-2. ❗️ Closed issue [#4](https://github.com/pmazz/ps_hassio_entities/issues/4) in [pmazz/ps_hassio_entities](https://github.com/pmazz/ps_hassio_entities)
+1. 💪 Opened PR [#13](https://github.com/MrBartusek/MeteoalarmCard/pull/13) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
+2. 🗣 Commented on [#5](https://github.com/pmazz/ps_hassio_entities/issues/5) in [pmazz/ps_hassio_entities](https://github.com/pmazz/ps_hassio_entities)
 <!--END_SECTION:activity-->
 
 <!--

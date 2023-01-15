@@ -7,11 +7,13 @@ Hi, you'll find here some personal and spare time projects of mine.
 
 #### Stats
 
-![](https://github-readme-stats.vercel.app/api?username=pmazz&hide_title=true&show_icons=true&count_private=true&hide_rank=true&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api?username=pmazz&show_icons=true&count_private=true&include_all_commits=true&text_bold=false&custom_title=My%20GitHub%20Stats)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pmazz)
 
 Additional stats [here](https://profile-summary-for-github.com/user/pmazz)
 
-#### Activities
+#### Last Activities
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#13](https://github.com/MrBartusek/MeteoalarmCard/pull/13) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
